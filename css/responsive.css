@@ -12,6 +12,9 @@
 		right:-5px;
 		margin-top:0px;
 	}
+	.nuestrosservicios{
+		padding: 20px;
+	}
 }
 @media screen and (max-width: 992px) {
 	.big-hr{
@@ -31,6 +34,9 @@
 	.stats span:last-child{
 		font-family: 'Roboto', sans-serif;
 		margin-top:-15px;
+	}
+	.nuestrosservicios{
+		padding: 20px;
 	}
 }
 
@@ -212,6 +218,9 @@
 	footer .block-content div{
 		margin-bottom:40px;
 	}
+	.nuestrosservicios{
+		padding: 20px;
+	}
 }
 @media screen and (max-width: 450px) {
 	.posts > div > h1{
@@ -233,5 +242,8 @@
 	}
 	#owl-main-slider .item{
 		height:300px;
+	}
+	.nuestrosservicios{
+		padding: 20px;
 	}
 }
